@@ -1,0 +1,5 @@
+1. Menyelesaikan Playlist yang diberikan
+2. Memahami konsep dasar dari MVC
+3. Membuat sesuatu yang fresh tanpa sebuah tutorial
+4. Istirahat yang cukup
+5. Membaca Dokumentasi
